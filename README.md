@@ -11,7 +11,7 @@ skip_file: yes
 
 一篇頁面應以 Markdown (`.md`) 格式來撰寫。
 
-頁面的資料夾與檔案名會變成文章的子目錄與網站名，如：`docs/info.md`會產生出`https://my-website.com/docs/info/` 的網頁。
+頁面的資料夾與檔案名會變成文章的子目錄與網站名，如：`docs/info.md`會產生出```https://my-website.com/docs/info/``` 的網頁。
 
 其中頁面開頭應**設置以下屬性**：
 
