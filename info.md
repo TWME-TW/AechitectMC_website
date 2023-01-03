@@ -10,3 +10,11 @@ post_excerpt: 伺服器連線資訊
 # 測試中
 
 this is a test page
+
+```yaml
+# test file
+test:
+test2:
+  test: "test messages"
+  
+```
