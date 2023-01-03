@@ -14,8 +14,8 @@ taxonomy:
 custom_fields:
     field1: value 1
     field2: value 2
-
 ---
-# TEST
+
+# 測試中
 
 this is a test page
