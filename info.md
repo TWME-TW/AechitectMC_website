@@ -18,3 +18,7 @@ test2:
   test: "test messages"
   
 ```
+
+---
+
+`/test commands`
